@@ -1,7 +1,6 @@
 .h3 {
   font-style: italic;
-  line-height: 1px
-  border-top: 20px solid black;
+  line-height: 1px;
 }
 .h1 {
 line-height: 1px;
@@ -26,4 +25,7 @@ line-height: 1px;
 .story1 {
   font-size: 20px;
   background: #778899;
+}
+.h32 {
+  border-top: 5px solid black;
 }
