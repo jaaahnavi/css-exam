@@ -1,6 +1,7 @@
 .h3 {
   font-style: italic;
   line-height: 1px
+  border-top: 20px solid black;
 }
 .h1 {
 line-height: 1px;
