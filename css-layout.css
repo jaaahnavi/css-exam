@@ -26,8 +26,8 @@ line-height: 1px;
   font-size: 20px;
   background: #778899;
 }
-.h32 {
-  border-top: 5px solid black;
+.h23 {
+  border-bottom: 2px solid black;
 }
 .container {
   max-width: 800px;
@@ -37,7 +37,7 @@ line-height: 1px;
   padding: 6px 4px 6px 4px;
 }
 body {
-  background: #A9A9A9;
+  background: #C0C0C0;
   padding: 6px 4px 6px 4px;
 }
 .left-column{
