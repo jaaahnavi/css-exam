@@ -59,4 +59,13 @@ body {
 * {
   box-sizing: border-box;
 }
-@media(max-width: 600px)
+@media(min-width: 600px){
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  .sidebar {
+    max-width: 600px;
+    margin: 0 auto;
+    padding-right: 50px;
+}
