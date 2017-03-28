@@ -29,3 +29,26 @@ line-height: 1px;
 .h32 {
   border-top: 5px solid black;
 }
+.container {
+  max-width: 800px;
+  overflow: auto;
+  margin: 0 auto;
+  background: white;
+  padding: 6px 4px 6px 4px;
+}
+.body {
+  background: #A9A9A9;
+  padding: 6px 4px 6px 4px;
+}
+.left-column{
+  width: 70%;
+  float: left;
+  padding: 6px 4px 6px 4px;
+}
+.right-column{
+  width: 30%;
+  float: left;
+  padding: 6px 4px 6px 4px;
+}
+* {
+  box-sizing: border-box;
