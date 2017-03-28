@@ -15,10 +15,14 @@ line-height: 1px;
 .headline {
   font-size: 25px;
   color: inherit;
-  padding: 0px 0px 0px 0px;
+  padding: 8px 2px 8px 2px;
   margin: 0px 0px 0px 0px;
 }
 .description {
-  padding: 0px 0px 0px 0px;
+  padding: 8px 2px 8px 2px;
   margin: 0px 0px 0px 0px;
+}
+.story1 {
+  font-size: 20px;
+  background: #778899;
 }
