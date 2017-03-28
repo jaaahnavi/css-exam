@@ -36,7 +36,7 @@ line-height: 1px;
   background: white;
   padding: 6px 4px 6px 4px;
 }
-.body {
+body {
   background: #A9A9A9;
   padding: 6px 4px 6px 4px;
 }
@@ -44,11 +44,19 @@ line-height: 1px;
   width: 70%;
   float: left;
   padding: 6px 4px 6px 4px;
+  bottom: 0;
+  right: 0;
+  position: relative;
+  overflow: auto;
 }
 .right-column{
   width: 30%;
   float: left;
   padding: 6px 4px 6px 4px;
+  box-sizing: border-box;
+  overflow: auto;
 }
 * {
   box-sizing: border-box;
+}
+@media(max-width: 600px)
